@@ -1,0 +1,8 @@
+# Words Whisper should spell right on every episode.
+# One per line. Keep it short: a long list makes Whisper "hear" these words where they aren't.
+# The guest's name from the episode title is added automatically.
+# For one episode only (book titles, company names), drop a glossary.txt in that episode's work folder.
+Your Show Name
+Your Host Name
+yourshow.com
+Riverside
